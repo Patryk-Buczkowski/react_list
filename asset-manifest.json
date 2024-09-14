@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/List_with_animation/static/css/main.4179ef1e.css",
+    "main.js": "/List_with_animation/static/js/main.6ccc1649.js",
+    "static/media/onRemoveAnimation.gif": "/List_with_animation/static/media/onRemoveAnimation.f354f3504de925a21672.gif",
+    "static/media/grinning-face-svgrepo-com.svg": "/List_with_animation/static/media/grinning-face-svgrepo-com.b380835015a589bfe0ffba15f47395b8.svg",
+    "index.html": "/List_with_animation/index.html",
+    "main.4179ef1e.css.map": "/List_with_animation/static/css/main.4179ef1e.css.map",
+    "main.6ccc1649.js.map": "/List_with_animation/static/js/main.6ccc1649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4179ef1e.css",
+    "static/js/main.6ccc1649.js"
+  ]
+}
