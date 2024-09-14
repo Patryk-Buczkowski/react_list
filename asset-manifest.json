@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/List_with_animation/static/css/main.4179ef1e.css",
-    "main.js": "/List_with_animation/static/js/main.6ccc1649.js",
-    "static/media/onRemoveAnimation.gif": "/List_with_animation/static/media/onRemoveAnimation.f354f3504de925a21672.gif",
-    "static/media/grinning-face-svgrepo-com.svg": "/List_with_animation/static/media/grinning-face-svgrepo-com.b380835015a589bfe0ffba15f47395b8.svg",
-    "index.html": "/List_with_animation/index.html",
-    "main.4179ef1e.css.map": "/List_with_animation/static/css/main.4179ef1e.css.map",
-    "main.6ccc1649.js.map": "/List_with_animation/static/js/main.6ccc1649.js.map"
+    "main.css": "/react_list/static/css/main.5268fdcd.css",
+    "main.js": "/react_list/static/js/main.7dc46ebb.js",
+    "static/media/onRemoveAnimation.gif": "/react_list/static/media/onRemoveAnimation.f354f3504de925a21672.gif",
+    "static/media/grinning-face-svgrepo-com.svg": "/react_list/static/media/grinning-face-svgrepo-com.b380835015a589bfe0ffba15f47395b8.svg",
+    "index.html": "/react_list/index.html",
+    "main.5268fdcd.css.map": "/react_list/static/css/main.5268fdcd.css.map",
+    "main.7dc46ebb.js.map": "/react_list/static/js/main.7dc46ebb.js.map"
   },
   "entrypoints": [
-    "static/css/main.4179ef1e.css",
-    "static/js/main.6ccc1649.js"
+    "static/css/main.5268fdcd.css",
+    "static/js/main.7dc46ebb.js"
   ]
 }
