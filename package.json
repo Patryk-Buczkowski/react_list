@@ -1,7 +1,7 @@
 {
-  "name": "nowy_folder",
+  "name": "react_list",
   "version": "0.1.0",
-  "homepage": "https://Patryk-Buczkowski.github.io/List_with_animation/",
+  "homepage": "https://Patryk-Buczkowski.github.io/react_list/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
